@@ -9,7 +9,7 @@ I finished the Fullstack Web Development BootCamp at HENRY and I continue to lea
 
 I decided that web development was what I wanted to start growing professionally with.</h3>
 
-- 🔭 I’m currently working on [Prode Master](https://github.com/matzapata/PG-Henry)
+- 🔭 I’m currently working on [Prode Master](https://github.com/matzapata/PG-Henry) proyect
 
 - 🌱 I’m currently learning **TypeScript, Prisma and Express**
 
