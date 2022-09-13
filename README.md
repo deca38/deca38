@@ -46,7 +46,6 @@ I decided that web development was what I wanted to start growing professionally
 
 ---
 
-Here you can see some of my projects:
 
 ## Pincipals proyects
 
