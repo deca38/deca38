@@ -1,7 +1,7 @@
 ![portada](https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
 # Hi 👋, I'm Nicolás De Carolis
 
-## Full Stack Web Develope
+## Full Stack Web Developer
 
 <h3 >Hello! My name is Nicolás, and I'm a Full Stack Web developer.
 
