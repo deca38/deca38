@@ -55,6 +55,8 @@ Here you can see some of my projects:
 
   Deploy: https://prodemaster.netlify.app/
 
+  Video: https://youtu.be/DcQr8NYQsYg
+
 - [Pokemon App](https://github.com/deca38/Pokemon-PI): It is a web page that allows you to search and filter Pokemons from the pokedex. It also has the function of creating new Pokemons. I used to make it JavaScript, React, Redux, Express, Sequelize, PostgresSQL, CSS, NodeJS
 
   Deploy: https://pokemon-pi-kappa.vercel.app/
